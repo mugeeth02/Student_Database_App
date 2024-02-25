@@ -12,7 +12,7 @@ public class Student{
     private static int costOfCourse = 600;
     public static int id = 1001;
 
-// add arul
+
 
     //    Constructor : prompt user to enter student's name and year
     public Student(){
